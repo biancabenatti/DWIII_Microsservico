@@ -14,3 +14,9 @@ Microserviço simples de autenticação utilizando **Node.js**, **Express** e **
 - TypeScript
 - JSON Web Token (JWT)
 
+# Integrantes
+ANA LAURA MARTINS SOUTO
+BIANCA PICHIRILO VERGUEIRO BENATTI 
+JOSE PAULO DE OLIVEIRA
+RODOLFO ANTUNES DE ALMEIDA
+
